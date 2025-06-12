@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mickelstar
 - 👀 I’m interested in meeting brilliant minds in the tech industry
-- 🌱 I’m currently learning how to become a good software engineer
+- 🌱 Cloud engineer in view
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me ...
+- 📫 How to reach me....
