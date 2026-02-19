@@ -3,4 +3,4 @@
 - AWS Cloud Practitioner Certified
 - 🌱 Cloud Engineer in view
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me....bossmickel51@gmail.com
+- 📫 How to reach me ... bossmickel51@gmail.com
